@@ -39,13 +39,13 @@ http://live-edge01.telecentro.net.ar:80/live/smil:c26.smil/chunklist_w1094300820
 http://tvstarlife.com:25461/live/geovany/geovany/313.m3u8
 
 #EXTINF:-1 tvg-id="CronicaTV" tvg-chno="19" group-title="Noticias" tvg-logo="https://yt3.ggpht.com/i213N_VQVyD9cIhh1zRP9OFW60ege6nchMkw4SzEiy6YznGacsKto8GKsFoye12LcV4pskI__w=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Crónica TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1672769461/ei/VRu0Y4T3HYHa8wSMkISQAQ/ip/172.177.255.81/id/InSydaLSSlw.7/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgHliHupAFoc0C0apRoTRLC56kRdfB3kqvNY4s4uMTCvICIQDAFhsO2EYuAlKKAZ6NpRwIEmb_I91pzrf6CgMWcU45OQ%3D%3D/file/index.m3u8
+http://azplay.ddns.me:33200/por/por123/2342
 
 #EXTINF:-1 tvg-id="IP" tvg-chno="20" tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="Noticias", IP
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="LN" tvg-chno="21" group-title="Noticias" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSYzA3huV-HI91MDWQCaz6y5IjfDpj8sQTqNHLSmg=s68-c-k-c0x00ffffff-no-rj", LN+
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1672686804/ei/dNiyY9neAsOokgaG4rL4CA/ip/13.88.59.96/id/xAb3tESDFSQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgPcOC2rbMxdz_dLEnw-xJLfJ8pAfFyU13GNjn8uI6390CIQCVUATQCmJ5pzthruBfmKiopS_CnpWTnG56CURMlfxcwQ%3D%3D/file/index.m3u8
+http://azplay.ddns.me:33200/por/por123/2344
 
 
 ### Deportes
@@ -54,13 +54,19 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1672686804/ei/d
 http://179.0.98.34:8000/play/a04i/index.m3u8
 
 #EXTINF:-1 tvg-chno="26" tvg-id="Espn" tvg-name="Espn" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="Deportes",ESPN
-https://lacasadelfutbol.shop/canales/flowb.html?get=ESPN2HD&v15
+http://azplay.ddns.me:33200/por/por123/51154
 
 #EXTINF:-1 tvg-chno="27" tvg-id="Espn2" tvg-name="Espn2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2
 http://teamnextlevel.xyz:25461/vicente/vicente/201551
 
 #EXTINF:-1 tvg-chno="28" tvg-id="Espn3" tvg-name="Espn3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3
 http://teamnextlevel.xyz:25461/vicente/vicente/201552
+
+#EXTINF:-1 tvg-chno="28" tvg-id="EspnP" tvg-name="EspnP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN Premium
+http://azplay.ddns.me:33200/por/por123/6463
+
+#EXTINF:-1 tvg-chno="28" tvg-id="EspnP2" tvg-name="EspnP2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN Premium 2
+http://azplay.ddns.me:33200/por/por123/3085
 
 #EXTINF:-1 tvg-chno="29" tvg-id="TntSports" tvg-name="tntsports" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_hd_blanco.png.8effa63ae6fa3bb793919341e5fc1c8d.png" group-title="Deportes",TNT Sports HD
 http://45.232.210.1:47000/play/cdfhd
@@ -104,7 +110,7 @@ http://45.232.210.1:47000/play/a056
 
 ### Cocina
 #EXTINF:-1 tvg-id="Gourmet" tvg-chno="100" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Elgourmet_2015.svg/revision/latest/scale-to-width-down/200?cb=20191030175859" group-title="Cocina" , Gourmet
-https://delivery.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
+http://azplay.ddns.me:33200/por/por123/2693
 
 #EXTINF:-1 tvg-chno="101" tvg-id="FoodNetwork" tvg-name="FoodNetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Cocina",Food Network
 http://45.232.210.1:47000/play/foodnetworkhd
