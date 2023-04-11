@@ -64,6 +64,9 @@ http://45.225.95.170:8000/play/a0hm/index.m3u8
 #EXTINF:-1 tvg-chno="26" tvg-id="Espn" tvg-name="Espn" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="Deportes",ESPN
 http://45.225.95.170:8000/play/a0hm/index.m3u8
 
+#EXTINF:-1 tvg-chno="26" tvg-id="EspnSD" tvg-name="Espn SD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="Deportes",ESPN
+http://45.225.95.170:8000/play/a0hm/index.m3u8
+
 #EXTINF:-1 tvg-chno="27" tvg-id="Espn2" tvg-name="Espn2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2
 http://45.225.95.170:8000/play/a0hn/index.m3u8
 
