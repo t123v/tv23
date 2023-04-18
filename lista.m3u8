@@ -1,13 +1,13 @@
 ###Varios
 
 #EXTINF:-1 tvg-id="El13" tvg-chno="12" group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" , EL TRECE 1
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/43314
 
 #EXTINF:-1 tvg-id="El13" tvg-chno="12" group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" , EL TRECE 2
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+http://vplay.club:8080/luis00/luis00/408608
 
 #EXTINF:-1 tvg-id="El13" tvg-chno="12" group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" , EL TRECE 3
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+https://epg.pw/stream/f69fa69719864d8e2353e4d455cdb447ff132b76fd20434d1564a70adfc2db0f.ctv
 
 #EXTINF:-1 tvg-id="TN" tvg-chno="16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/290px-TN_todo_noticias_logo.svg.png" group-title="Noticias",TN Noticias
 https://livetrx02.vodgc.net/TN24_2/index.m3u8
@@ -16,7 +16,7 @@ https://livetrx02.vodgc.net/TN24_2/index.m3u8
 https://livetrx02.vodgc.net/TN24_2/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TN2" tvg-chno="17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/290px-TN_todo_noticias_logo.svg.png" group-title="Noticias",TN Noticias 3
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+http://vplay.club:8080/luis00/luis00/408618
 
 #EXTINF:-1 tvg-id="Canal13rio4" tvg-chno="09" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telediario_m.png" group-title="Varios",Canal 13 Rio Cuarto
 https://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8
