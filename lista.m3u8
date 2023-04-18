@@ -1,7 +1,7 @@
 ###Varios
 
 #EXTINF:-1 tvg-id="El13" tvg-chno="12" group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" , EL TRECE 1
-http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/43314
+https://cotesma02.cdn.rcs.net.ar/mnp/el13/output.mpd
 
 #EXTINF:-1 tvg-id="El13" tvg-chno="12" group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" , EL TRECE 2
 http://vplay.club:8080/luis00/luis00/408608
