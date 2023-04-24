@@ -22,9 +22,12 @@ http://vplay.club:8080/luis00/luis00/408618
 https://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telefe" tvg-chno="10" tvg-logo="https://w7.pngwing.com/pngs/645/638/png-transparent-television-publica-argentina-television-in-argentina-telefe-argentine-television-logo-argentina.png" group-title="Varios",Telefe
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0051
+http://maxpro.cc:2095/live/Area504/504restream/264.ts
 
 #EXTINF:-1 tvg-id="Telefe" tvg-chno="10" tvg-logo="https://w7.pngwing.com/pngs/645/638/png-transparent-television-publica-argentina-television-in-argentina-telefe-argentine-television-logo-argentina.png" group-title="Varios",Telefe 2
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0051
+
+#EXTINF:-1 tvg-id="Telefe" tvg-chno="10" tvg-logo="https://w7.pngwing.com/pngs/645/638/png-transparent-television-publica-argentina-television-in-argentina-telefe-argentine-television-logo-argentina.png" group-title="Varios",Telefe 3
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 #EXTINF:-1 tvg-id="TVPublica" tvg-chno="11" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.svg/revision/latest/scale-to-width-down/300?cb=20210102135802&path-prefix=es" group-title="Varios",TV Pública
@@ -42,10 +45,10 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 ### Informativos
 
 #EXTINF:-1 tvg-id="C5N" tvg-chno="15" group-title="Noticias" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTqGg2bWg02R5un1pFAeuYDMGAVCmna52i__wapvw=s88-c-k-c0x00ffffff-no-rj" tvg-id="", C5N
-https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+http://maxpro.cc:2095/live/Area504/504restream/25180.ts
 
 #EXTINF:-1 tvg-id="C5N" tvg-chno="15" group-title="Noticias" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTqGg2bWg02R5un1pFAeuYDMGAVCmna52i__wapvw=s88-c-k-c0x00ffffff-no-rj" tvg-id="", C5N 2
-https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+http://maxpro.cc:2095/live/Area504/504restream/254.ts
 
 
 #EXTINF:-1 tvg-id="Canal26" tvg-chno="17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="Noticias",Canal 26
@@ -70,7 +73,7 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 
 #EXTINF:-1 tvg-id="LN" tvg-chno="21" group-title="Noticias" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSYzA3huV-HI91MDWQCaz6y5IjfDpj8sQTqNHLSmg=s68-c-k-c0x00ffffff-no-rj", LN+ 2
-https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCba3hpU7EFBSk817y9qZkiA.m3u8
+http://maxpro.cc:2095/live/Area504/504restream/126043.ts
 
 ### Educativos
 
@@ -123,34 +126,34 @@ http://168.228.194.32:58001/play/a0ba/index.m3u8
 ### Peliculas
 
 #EXTINF:-1 tvg-id="CineCanal" tvg-chno="45" tvg-logo="https://i.pinimg.com/originals/4b/ab/54/4bab54bc7bad8e728654032c5c817154.png" group-title="Peliculas" , CINECANAL
-http://181.78.105.146:9000/play/a03d
+http://maxpro.cc:2095/live/Area504/504restream/32216.ts
 
 #EXTINF:-1 tvg-id="CineMax" tvg-chno="46" tvg-logo="https://img2.freepng.es/20180808/skv/kisspng-logo-cinemax-television-channel-image-5b6a9a47204a89.8950189515337129671323.jpg" group-title="Peliculas" , CINEMAX
 http://190.119.178.46:8000/play/a023/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-chno="47" tvg-logo="https://img2.freepng.es/20180629/esr/kisspng-tnt-serie-television-show-turner-broadcasting-syst-cnn-logo-5b3636739a3bc9.1517075315302795396318.jpg" group-title="Peliculas" , TNT
-http://45.225.95.170:8000/play/a0jd/index.m3u8
+http://maxpro.cc:2095/live/Area504/504restream/1810.ts
 
 #EXTINF:-1 tvg-id="Space" tvg-chno="48" tvg-logo="https://img2.freepng.es/20180617/khb/kisspng-space-television-channel-streaming-television-turn-television-channel-5b26c7a0123cc4.0267055015292681280747.jpg" group-title="Peliculas" , SPACE
-http://181.78.105.146:9000/play/a04n
+http://maxpro.cc:2095/live/Area504/504restream/65805.ts
 
 #EXTINF:-1 tvg-id="FX" tvg-chno="49" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fx_m.png" group-title="Peliculas" , FX
-http://181.78.105.146:9000/play/a02j
+http://maxpro.cc:2095/live/Area504/504restream/102713.ts
 
 #EXTINF:-1 tvg-id="Sony" tvg-chno="50" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sony_Channel_2019.svg/revision/latest/scale-to-width-down/200?cb=20200117013250&path-prefix=es" group-title="Peliculas" , SONY
 http://svtv.xyz:8080/jonya/HHcNTJp/299247
 
 #EXTINF:-1 tvg-id="Universal" tvg-chno="51" tvg-logo="https://img2.freepng.es/20180502/hlw/kisspng-universal-pictures-logo-universal-city-film-studio-universal-logo-5ae97b1b659351.8085508215252508434161.jpg" group-title="Peliculas" , Universal
-http://176.57.50.167:25461/Tina1/Tina1/5178
+http://maxpro.cc:2095/live/Area504/504restream/65803.ts
 
 #EXTINF:-1 tvg-chno="52" tvg-id="StarChannel" tvg-name="starchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1920px-Star_Channel_2020.svg.png" group-title="Peliculas",Star
-http://181.78.105.146:9000/play/a03a
+http://maxpro.cc:2095/live/Area504/504restream/1819.ts
 
 #EXTINF:-1 tvg-chno="53" tvg-id="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1920px-AMC_logo_2019.svg.png" group-title="Peliculas",AMC
 http://coresys.dvrdns.org:8080/Paulino/gD3tucXBkCAb/77338
 
 #EXTINF:-1 tvg-chno="54" tvg-id="HBO" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Peliculas",HBO
-http://181.78.105.146:9000/play/a00h
+http://maxpro.cc:2095/live/Area504/504restream/65730.ts
 
 ### Cocina
 #EXTINF:-1 tvg-id="Gourmet" tvg-chno="100" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Elgourmet_2015.svg/revision/latest/scale-to-width-down/200?cb=20191030175859" group-title="Cocina" , Gourmet
