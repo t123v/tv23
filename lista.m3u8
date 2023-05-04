@@ -7,7 +7,7 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRECEARGENTINA_stream_e4&_cdn_session=776033019&_cdn_timestamp=1683440053&_cdn_token=71b7744a26fa2498aec071e7ea8da5fdca243c2a
 
 #EXTINF:-1 tvg-id="El13" tvg-chno="12" group-title="Varios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" , EL TRECE 3
-https://epg.pw/stream/f69fa69719864d8e2353e4d455cdb447ff132b76fd20434d1564a70adfc2db0f.ctv
+http://tv.kis2.xyz:39001/Hectornew/KNeCF7tk2t/22098
 
 #EXTINF:-1 tvg-id="TN" tvg-chno="16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/290px-TN_todo_noticias_logo.svg.png" group-title="Noticias",TN Noticias
 https://livetrx02.vodgc.net/TN24_2/index.m3u8
