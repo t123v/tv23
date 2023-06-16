@@ -18,14 +18,11 @@ https://livetrx02.vodgc.net/TN24_2/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="TN2" tvg-chno="17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/290px-TN_todo_noticias_logo.svg.png" group-title="Noticias",TN Noticias 3
 http://vplay.club:8080/luis00/luis00/408618
 
-#EXTINF:-1 tvg-id="Canal13rio4" tvg-chno="09" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telediario_m.png" group-title="Varios",Canal 13 Rio Cuarto
-https://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Telefe" tvg-chno="10" tvg-logo="https://w7.pngwing.com/pngs/645/638/png-transparent-television-publica-argentina-television-in-argentina-telefe-argentine-television-logo-argentina.png" group-title="Varios",Telefe
-http://maxpro.cc:2095/live/Area504/504restream/264.ts
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 #EXTINF:-1 tvg-id="Telefe" tvg-chno="10" tvg-logo="https://w7.pngwing.com/pngs/645/638/png-transparent-television-publica-argentina-television-in-argentina-telefe-argentine-television-logo-argentina.png" group-title="Varios",Telefe 2
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0051
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3199
 
 #EXTINF:-1 tvg-id="Telefe" tvg-chno="10" tvg-logo="https://w7.pngwing.com/pngs/645/638/png-transparent-television-publica-argentina-television-in-argentina-telefe-argentine-television-logo-argentina.png" group-title="Varios",Telefe 3
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
@@ -45,7 +42,7 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 ### Informativos
 
 #EXTINF:-1 tvg-id="C5N" tvg-chno="15" group-title="Noticias" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTqGg2bWg02R5un1pFAeuYDMGAVCmna52i__wapvw=s88-c-k-c0x00ffffff-no-rj" tvg-id="", C5N
-http://maxpro.cc:2095/live/Area504/504restream/25180.ts
+https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 
 #EXTINF:-1 tvg-id="C5N" tvg-chno="15" group-title="Noticias" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTqGg2bWg02R5un1pFAeuYDMGAVCmna52i__wapvw=s88-c-k-c0x00ffffff-no-rj" tvg-id="", C5N 2
 http://maxpro.cc:2095/live/Area504/504restream/254.ts
@@ -73,7 +70,7 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 
 #EXTINF:-1 tvg-id="LN" tvg-chno="21" group-title="Noticias" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSYzA3huV-HI91MDWQCaz6y5IjfDpj8sQTqNHLSmg=s68-c-k-c0x00ffffff-no-rj", LN+ 2
-http://maxpro.cc:2095/live/Area504/504restream/126043.ts
+https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 
 ### Educativos
 
